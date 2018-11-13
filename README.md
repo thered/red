@@ -5,3 +5,4 @@
 * https://www.endgame.com/blog/technical-blog/introducing-endgame-red-team-automation
 * https://www.csoonline.com/article/3267691/cyber-attacks-espionage/what-is-mitres-attandck-framework-what-red-teams-need-to-know.html
 * https://www.trustedsec.com/services/adversarial-attack-simulation-red-team/
+* https://medium.com/rvrsh3ll/attack-infrastructure-log-aggregation-and-monitoring-6348ce760875
