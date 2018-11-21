@@ -6,3 +6,4 @@
 * https://www.csoonline.com/article/3267691/cyber-attacks-espionage/what-is-mitres-attandck-framework-what-red-teams-need-to-know.html
 * https://www.trustedsec.com/services/adversarial-attack-simulation-red-team/
 * https://medium.com/rvrsh3ll/attack-infrastructure-log-aggregation-and-monitoring-6348ce760875
+* http://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform--part-1/
